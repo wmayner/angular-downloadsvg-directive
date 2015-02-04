@@ -21,7 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "FileSaver": "*",
     "angular": ">= 1.2.5",
     "jquery": ">= 1.11.0"
   }
